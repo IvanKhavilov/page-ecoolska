@@ -8,4 +8,5 @@ $(document).ready(function () {
       buttons: {},
     },
   });
+  $(".collection__video, .lyocell__video").get(0).play();
 });
